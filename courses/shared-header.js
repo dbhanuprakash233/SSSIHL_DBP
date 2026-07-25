@@ -18,15 +18,6 @@ class SiteHeader extends HTMLElement {
         </span>
       </div>
     </div>
-    <nav class="main-nav" aria-label="Primary">
-      <div class="container">
-        <ul>
-          <li><a href="../index.html">Home</a></li>
-          <li><a href="../index.html#courses" class="active">Courses</a></li>
-          <li><a href="../timetable.html">Timetable</a></li>
-        </ul>
-      </div>
-    </nav>
   </header>
     `;
   }
