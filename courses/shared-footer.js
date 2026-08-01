@@ -25,6 +25,7 @@ class SiteFooter extends HTMLElement {
             <li>Assistant Professor, Department of Mathematics and Computer Science</li>
             <li><a href="mailto:dbhanuprakash233@gmail.com">dbhanuprakash233@gmail.com</a></li>
             <li>Room B8, Annex Building</li>
+            <li><a href="https://dbhanuprakash233.github.io" target="_blank">Personal Website</a></li>
           </ul>
         </div>
       </div>

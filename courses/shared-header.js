@@ -14,7 +14,8 @@ class SiteHeader extends HTMLElement {
         <span class="avatar">DBP</span>
         <span>
           <span class="fname">Dr. D Bhanu Prakash, Ph.D.</span><br>
-          <span class="frole">Assistant Professor, DMACS &middot; <a href="mailto:dbhanuprakash233@gmail.com">dbhanuprakash233@gmail.com</a></span>
+          <span class="frole">Assistant Professor, DMACS &middot; <a href="mailto:dbhanuprakash233@gmail.com">dbhanuprakash233@gmail.com</a> &middot; </span>
+          <span class="fwebsite"><a href="https://dbhanuprakash233.github.io" target="_blank">Personal Website</a></span>
         </span>
       </div>
     </div>
