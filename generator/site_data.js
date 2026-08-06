@@ -5,23 +5,23 @@ const path = require("path");
 // Course + faculty data (single source of truth for the site)
 // ---------------------------------------------------------------
 const FACULTY = {
-  name: "Prof. Richard A. Whitfield, Ph.D.",
-  initials: "RW",
-  role: "Associate Professor, Department of Data Science",
-  email: "richard.whitfield@meridian.edu",
-  office: "Room 412, Data Science Block",
+  name: "Dr. D Bhanu Prakash, Ph.D.",
+  initials: "DBP",
+  role: "Assistant Professor, Department of Mathematics and Computer Science",
+  email: "dbhanuprakash@sssihl.edu.in",
+  office: "Room B8, Annex Building, SSSIHL, Prasanthi Nilayam Campus",
   phone: "+1 (555) 214-7890",
-  term: "Semester V — Academic Year 2026–27"
+  term: "Odd Semester — Academic Year 2026–27"
 };
 
 const UNI = {
-  name: "Meridian State University",
-  dept: "Department of Data Science",
-  school: "School of Engineering & Applied Sciences",
+  name: "Sri Sathya Sai Institute of Higher Learning",
+  dept: "Department of Mathematics and Computer Science",
+  school: "School of Sciences",
   address: "1200 Ridgeview Avenue, Lakeshore Campus, Meridian City, ST 45021",
   phone: "+1 (555) 214-7890",
   email: "dds@meridian.edu",
-  web: "www.meridian.edu/datascience"
+  web: "www.sssihl.edu.in"
 };
 
 const UNIT_COLORS = ["#1F3864", "#3B5C94", "#B08D57", "#6C8CBF", "#8A6D3B", "#4F6D8C"];

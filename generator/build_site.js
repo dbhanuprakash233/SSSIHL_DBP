@@ -37,7 +37,7 @@ function headerNav(active, depth) {
   <header class="site-header">
     <div class="container header-top">
       <a class="brand" href="${base}index.html">
-        <span class="brand-mark">M</span>
+        <span class="brand-mark">SSS</span>
         <span class="brand-text">
           <span class="uni">${UNI.name}</span><br>
           <span class="dept">${UNI.dept}</span>
