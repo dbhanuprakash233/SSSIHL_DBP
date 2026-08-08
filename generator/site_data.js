@@ -18,9 +18,9 @@ const UNI = {
   name: "Sri Sathya Sai Institute of Higher Learning",
   dept: "Department of Mathematics and Computer Science",
   school: "School of Sciences",
-  address: "1200 Ridgeview Avenue, Lakeshore Campus, Meridian City, ST 45021",
+  address: "Prasanthi Nilayam, Anantapur District, Andhra Pradesh, India — 515134",
   phone: "+1 (555) 214-7890",
-  email: "dds@meridian.edu",
+  email: "dbhanuprakash@sssihl.edu.in",
   web: "www.sssihl.edu.in"
 };
 
