@@ -18,6 +18,13 @@ class SiteHeader extends HTMLElement {
           <span class="fwebsite"><a href="https://dbhanuprakash233.github.io" target="_blank">Personal Website</a></span>
         </span>
       </div>
+      
+      <nav class="main-nav a">
+        <div style="display: flex; gap: 15px;">
+        <a href="../index.html">Home</a>
+        <a href="timetable.html">Timetable</a>
+        </div>
+      </nav>
     </div>
   </header>
     `;
