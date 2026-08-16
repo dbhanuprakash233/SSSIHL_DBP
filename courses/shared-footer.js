@@ -31,7 +31,7 @@ class SiteFooter extends HTMLElement {
       </div>
       <div class="foot-bottom">
         <span>&copy; 2026 Sri Sathya Sai Institute of Higher Learning. Odd Semester — Academic Year 2026–27.</span>
-        <span> Last Updated: August 9, 2026.</span>
+        <span> Last Updated: August 16, 2026.</span>
         <span>Built for GitHub Pages &middot;</span>
       </div>
     </div>
