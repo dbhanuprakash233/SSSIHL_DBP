@@ -1,80 +1,1006 @@
-%PDF-1.4
-%“Œ‹ž ReportLab Generated PDF document (opensource)
+%PDF-1.3
+%âãÏÓ
 1 0 obj
 <<
-/F1 2 0 R /F2 3 0 R /F3 4 0 R
+/Producer (pypdf)
 >>
 endobj
 2 0 obj
 <<
-/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+/Type /Pages
+/Count 1
+/Kids [ 4 0 R ]
 >>
 endobj
 3 0 obj
 <<
-/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+/Type /Catalog
+/Pages 2 0 R
 >>
 endobj
 4 0 obj
 <<
-/BaseFont /Symbol /Name /F3 /Subtype /Type1 /Type /Font
+/Contents 5 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+/F3 10 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
 >>
 endobj
 5 0 obj
 <<
-/Contents 9 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 8 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 /Trans <<
-
->> 
-  /Type /Page
+/Length 9374
 >>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+1 1 1 rg
+n 0 759.8898 595.2756 82 re f*
+0 0 0 rg
+BT /F2 13 Tf 15.6 TL ET
+BT 1 0 0 1 222.8813 819.8898 Tm (SET-BASED PROFILING) Tj T* ET
+BT /F2 11 Tf 13.2 TL ET
+BT 1 0 0 1 40 796.8898 Tm (Class: B.S Mathematics) Tj T* ET
+BT 1 0 0 1 437.9166 801.8898 Tm (Name: Gupteswar Hati) Tj T* ET
+BT 1 0 0 1 432.9996 785.8898 Tm (Regd. No: 24010107004) Tj T* ET
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+q
+0.89547321 0.0 0.0 0.89547321 31.1111183 12 cm
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+q
+1 0 0 1 38.59843 787.378 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 3 Tm
+/F2-0 20 Tf
+23 TL
+144.0294 0 Td
+(SET\055BASED PROFILING) Tj
+T*
+-144.0294 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 38.59843 765.378 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F2-0 13 Tf
+15 TL
+(1\056 PROFILING) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 38.59843 720.378 cm
+q
+BT
+1 0 0 1 0 28.9 Tm
+13 TL
+/F1-0 10.1 Tf
+0 0 0 rg
+(Profiling means studying the data ) Tj
+/F2-0 10.1 Tf
+(before and during data wrangling) Tj
+/F1-0 10.1 Tf
+( to understand its ) Tj
+/F2-0 10.1 Tf
+(contents\054 quality\054 and) Tj
+T*
+(behaviour) Tj
+/F1-0 10.1 Tf
+(\056 Profiling is important because it guides the data transformations that may be required during data) Tj
+T*
+(wrangling\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 38.59843 701.378 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F2-0 13 Tf
+15 TL
+(2\056 TYPES OF PROFILING) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 49.6063 642.378 cm
+q
+0.827451 0.827451 0.827451 rg
+n
+0 56 496.063 -22 re
+f*
+0 0 0 rg
+BT
+/F1-0 10 Tf
+12 TL
+ET
+q
+1 0 0 1 6 39 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2-0 9.5 Tf
+12 TL
+(Individual Value Profiling) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 254.0315 39 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2-0 9.5 Tf
+12 TL
+(Set\055Based Profiling) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 5 cm
+q
+BT
+1 0 0 1 0 14.5 Tm
+12 TL
+/F1-0 9.5 Tf
+0 0 0 rg
+(Individual value profiling determines whether ) Tj
+/F2-0 9.5 Tf
+(individual) Tj
+T*
+(record\055field values are valid) Tj
+/F1-0 9.5 Tf
+(\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 254.0315 5 cm
+q
+BT
+1 0 0 1 0 14.5 Tm
+12 TL
+/F1-0 9.5 Tf
+0 0 0 rg
+(Set\055based profiling does not concentrate on one value\056) Tj
+T*
+(It examines a ) Tj
+/F2-0 9.5 Tf
+(set of values together) Tj
+/F1-0 9.5 Tf
+(\056) Tj
+T*
+ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+0.8 w
+n
+0 56 m
+496.063 56 l
+S
+n
+0 0 m
+496.063 0 l
+S
+n
+0 0 m
+0 56 l
+S
+n
+496.063 0 m
+496.063 56 l
+S
+0.501961 0.501961 0.501961 RG
+0.5 w
+n
+0 34 m
+496.063 34 l
+S
+n
+248.0315 0 m
+248.0315 56 l
+S
+Q
+Q
+Q
+q
+1 0 0 1 38.59843 623.378 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F2-0 13 Tf
+15 TL
+(3\056 INDIVIDUAL VALUE PROFILING) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 38.59843 604.378 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2.9 Tm
+/F1-0 10.1 Tf
+13 TL
+(It determines whether individual record\055field values are valid\056 It has two types\072) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 38.59843 572.378 cm
+q
+BT
+1 0 0 1 0 15.9 Tm
+13 TL
+/F1-0 10.1 Tf
+0 0 0 rg
+<7f20> Tj
+/F2-0 10.1 Tf
+(Syntactic Profiling\072) Tj
+/F1-0 10.1 Tf
+( Syntax refers to the literal ) Tj
+/F2-0 10.1 Tf
+(format or form) Tj
+/F1-0 10.1 Tf
+( of a value\056 Syntactic profiling checks whether a) Tj
+T*
+(value belongs to the set of values permitted by the specified format or constraint\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 38.59843 553.378 cm
+q
+BT
+1 0 0 1 0 2.9 Tm
+13 TL
+/F1-0 10.1 Tf
+0 0 0 rg
+<7f20> Tj
+/F2-0 10.1 Tf
+(Semantic Profiling\072) Tj
+/F1-0 10.1 Tf
+( Semantic profiling is concerned with the ) Tj
+/F2-0 10.1 Tf
+(meaning or interpretation) Tj
+/F1-0 10.1 Tf
+( of a value\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 38.59843 534.378 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F2-0 13 Tf
+15 TL
+(4\056 SET\055BASED PROFILING) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 38.59843 502.378 cm
+q
+BT
+1 0 0 1 0 15.9 Tm
+13 TL
+/F1-0 10.1 Tf
+0 0 0 rg
+(A value can sometimes be ) Tj
+/F2-0 10.1 Tf
+(syntactically invalid but still have a meaningful interpretation in the context of the) Tj
+T*
+(dataset) Tj
+/F1-0 10.1 Tf
+(\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 38.59843 470.378 cm
+q
+BT
+1 0 0 1 0 15.9 Tm
+13 TL
+/F1-0 10.1 Tf
+0 0 0 rg
+(Set\055based profiling shifts attention from an individual value to the ) Tj
+/F2-0 10.1 Tf
+(shape and extent of the distribution of values) Tj
+T*
+(within a field) Tj
+/F1-0 10.1 Tf
+(\056 It can also examine ) Tj
+/F2-0 10.1 Tf
+(relationships between multiple fields) Tj
+/F1-0 10.1 Tf
+(\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 38.59843 451.378 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F2-0 13 Tf
+15 TL
+(What does set\055based profiling examine\077) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 49.6063 368.378 cm
+q
+0.827451 0.827451 0.827451 rg
+n
+0 80 496.063 -20 re
+f*
+0 0 0 rg
+BT
+/F1-0 10 Tf
+12 TL
+ET
+q
+1 0 0 1 6 64 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2-0 9.5 Tf
+12 TL
+(Focus) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 122.2205 64 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2-0 9.5 Tf
+12 TL
+(What is examined\077) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 44 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F1-0 9.5 Tf
+12 TL
+(Distribution) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 122.2205 44 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F1-0 9.5 Tf
+12 TL
+(The shape and extent of the distribution of values within a field\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 24 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F1-0 9.5 Tf
+12 TL
+(Multiple fields) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 122.2205 24 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F1-0 9.5 Tf
+12 TL
+(Relationships between multiple fields\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 4 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F1-0 9.5 Tf
+12 TL
+(Data quality) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 122.2205 4 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F1-0 9.5 Tf
+12 TL
+(Patterns in the data that can help identify possible problematic values\056) Tj
+T*
+ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+0.8 w
+n
+0 80 m
+496.063 80 l
+S
+n
+0 0 m
+496.063 0 l
+S
+n
+0 0 m
+0 80 l
+S
+n
+496.063 0 m
+496.063 80 l
+S
+0.501961 0.501961 0.501961 RG
+0.45 w
+n
+0 60 m
+496.063 60 l
+S
+n
+0 40 m
+496.063 40 l
+S
+n
+0 20 m
+496.063 20 l
+S
+n
+116.2205 0 m
+116.2205 80 l
+S
+Q
+Q
+Q
+q
+1 0 0 1 38.59843 349.378 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F2-0 13 Tf
+15 TL
+(5\056 STATISTICS USED IN SET\055BASED PROFILING) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 38.59843 330.378 cm
+q
+BT
+1 0 0 1 0 2.9 Tm
+13 TL
+/F1-0 10.1 Tf
+0 0 0 rg
+(For ) Tj
+/F2-0 10.1 Tf
+(numeric data) Tj
+/F1-0 10.1 Tf
+(\054 the following statistics are mentioned for examining the data\072) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 49.6063 206.378 cm
+q
+0.827451 0.827451 0.827451 rg
+n
+0 120 496.063 -20 re
+f*
+0 0 0 rg
+BT
+/F1-0 10 Tf
+12 TL
+ET
+q
+1 0 0 1 6 104 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2-0 9.5 Tf
+12 TL
+(Statistic) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 122.2205 104 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2-0 9.5 Tf
+12 TL
+(Meaning \057 Use) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 84 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2-0 9.5 Tf
+12 TL
+(Minimum) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 122.2205 84 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F1-0 9.5 Tf
+12 TL
+(The smallest value in the set\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 64 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2-0 9.5 Tf
+12 TL
+(Maximum) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 122.2205 64 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F1-0 9.5 Tf
+12 TL
+(The largest value in the set\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 44 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2-0 9.5 Tf
+12 TL
+(Mean) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 122.2205 44 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F1-0 9.5 Tf
+12 TL
+(The average value of the set\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 24 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2-0 9.5 Tf
+12 TL
+(Sum) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 122.2205 24 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F1-0 9.5 Tf
+12 TL
+(The total of the values in the set\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 4 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2-0 9.5 Tf
+12 TL
+(Histogram) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 122.2205 4 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F1-0 9.5 Tf
+12 TL
+(A representation used to examine the distribution of values\056) Tj
+T*
+ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+0.8 w
+n
+0 120 m
+496.063 120 l
+S
+n
+0 0 m
+496.063 0 l
+S
+n
+0 0 m
+0 120 l
+S
+n
+496.063 0 m
+496.063 120 l
+S
+0.501961 0.501961 0.501961 RG
+0.45 w
+n
+0 100 m
+496.063 100 l
+S
+n
+0 80 m
+496.063 80 l
+S
+n
+0 60 m
+496.063 60 l
+S
+n
+0 40 m
+496.063 40 l
+S
+n
+0 20 m
+496.063 20 l
+S
+n
+116.2205 0 m
+116.2205 120 l
+S
+Q
+Q
+Q
+q
+1 0 0 1 38.59843 187.378 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F2-0 13 Tf
+15 TL
+(6\056 WHY ARE THESE STATISTICS IMPORTANT\077) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 38.59843 142.378 cm
+q
+BT
+1 0 0 1 0 28.9 Tm
+13 TL
+/F1-0 10.1 Tf
+0 0 0 rg
+(Minimum\054 maximum\054 mean\054 sum\054 and histogram help us understand the ) Tj
+/F2-0 10.1 Tf
+(distribution of values) Tj
+/F1-0 10.1 Tf
+( in the data\056 They) Tj
+T*
+(can also help identify ) Tj
+/F2-0 10.1 Tf
+(possible outliers or problematic values) Tj
+/F1-0 10.1 Tf
+(\056 Thus\054 set\055based profiling gives a broader view of a) Tj
+T*
+(field than checking individual values one by one\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 38.59843 135.378 cm
+Q
+q
+1 0 0 1 49.6063 63.37795 cm
+q
+0.960784 0.960784 0.960784 rg
+n
+0 72 496.063 -72 re
+f*
+0 0 0 rg
+BT
+/F1-0 10 Tf
+12 TL
+ET
+q
+1 0 0 1 8 6 cm
+q
+BT
+1 0 0 1 0 50.5 Tm
+12 TL
+/F2-0 9.5 Tf
+0 0 0 rg
+(QUICK REVISION) Tj
+/F1-0 9.5 Tf
+T*
+/F2-0 9.5 Tf
+(Individual Value Profiling ) Tj
+/F3 9.5 Tf
+12 TL
+(\256) Tj
+/F2-0 9.5 Tf
+12 TL
+/F1-0 9.5 Tf
+( checks whether individual values are valid\056) Tj
+T*
+/F2-0 9.5 Tf
+(Set\055Based Profiling ) Tj
+/F3 9.5 Tf
+12 TL
+(\256) Tj
+/F2-0 9.5 Tf
+12 TL
+/F1-0 9.5 Tf
+( examines values as a set\054 their distribution\054 and relationships between fields\056) Tj
+T*
+T*
+/F2-0 9.5 Tf
+(Numeric statistics\072) Tj
+/F1-0 9.5 Tf
+( MINIMUM ) Tj
+/F3 9.5 Tf
+12 TL
+(\256) Tj
+/F1-0 9.5 Tf
+12 TL
+( MAXIMUM ) Tj
+/F3 9.5 Tf
+12 TL
+(\256) Tj
+/F1-0 9.5 Tf
+12 TL
+( MEAN ) Tj
+/F3 9.5 Tf
+12 TL
+(\256) Tj
+/F1-0 9.5 Tf
+12 TL
+( SUM ) Tj
+/F3 9.5 Tf
+12 TL
+(\256) Tj
+/F1-0 9.5 Tf
+12 TL
+( HISTOGRAM) Tj
+T*
+ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+1.2 w
+n
+0 72 m
+496.063 72 l
+S
+n
+0 0 m
+496.063 0 l
+S
+n
+0 0 m
+0 72 l
+S
+n
+496.063 0 m
+496.063 72 l
+S
+Q
+Q
+Q
+Q
+Q
+
+
+endstream
 endobj
 6 0 obj
 <<
-/PageMode /UseNone /Pages 8 0 R /Type /Catalog
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 7 0 obj
 <<
-/Author (\(anonymous\)) /CreationDate (D:20260811063838+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260811063838+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
-  /Subject (\(unspecified\)) /Title (\(anonymous\)) /Trapped /False
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 8 0 obj
 <<
-/Count 1 /Kids [ 5 0 R ] /Type /Pages
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 9 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 2419
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
 >>
-stream
-Gau0E=``:f&:XAWkXROB/%U;ECloP^g,6<KA7ni+(P)e;XpuY8N;<5&1E%9aKOgoW5![0\2;S4Z1S]JZ577G*$iiKFnGYlX70S#AMD".$hnmmWpj&Qh2mncYN(:G`_pM</L*I[m:M'M^?=0?*V3%[-*M>M0<11j,2'u&FF\,WS3^1#Y(sJoOe]5dZH4:CGpG^[*Fnb\BYl=n(*F'W!MIq7TT/onEUWjK12au-(CBcS+TLbtac_s_&;U(p-OYgYW'^d-*TI_Nc;/QgO*o^kpq-LRcJ2gs=#u05=];-AIY!X5f(2t53i5(#HU6pHE]&9G?H^VXYMk+h37#;MP\cL.`da0:[6J3cJ-8f8!;+O8LP=t\=3ke,YQV9gh!7\T"?G%\G:W6hV$9,U#]O2\tW//<B/=eU@W"@OZkE;W_Mk[Tcq@P^:MaI-QTb'21*!7qkR<gSJE3HL@E)Z$U2mUjb"]Pfpmgml-gu!4p"aqqiZDiDSX/.jkU^hN7J`BN_+N.-3M8N#D%D,M<F;\-J%SY(jb\^6RlHKHKI+BgiaSd$`YITaG'tW7[kMcW^Zf@sZS@M,X<!2G\_nbnD3@FIaUQaVX[d,]bW$s!.3F$_SO9J*e.-mhkf*h=g>@aO&.#A$Z`9c5q#UWqa-GPWun;?0nT#G4X`U;:!,JKYh9YeJY_QTP8e3GXZ3>mbEp%42sDo'=mE@F4a_MA9Elk4(lFsqni`*\[q>*q+M.$.LXF5K!#4<YE5<ULrgeiZ3gh"qKZrY<QEp_iZDG'R[)7;h.>%s*2,Y2#<Rm`OX,jU3Fk,XYVP-5P%W-duo<h3qXfLDQ@T<?GdN^n__^6L<=$k$b8n^ZM4]@,5*mcdqd<j;+=7[nkJ^!/`5kXa2d2WA`]DACu"UjEm<OE&OiGE!dNh'4D[Xh/>mUU"s$bW&=XK@^H6q%qR`%!MfHSUs>-LbHbi0W51@jg+,4l6>U-[a7'8;Mo=iEWRM>p+Gt_uX-&16i.q_ldY+pqQ5d.-YDd7R8m0VG&3gNRKcu5j[:Q[2.2MJ`T0;%oV2#`C6>75OFFrW@KsUrp)2?^14o,DT"Gkj8ER3Or<e6leUGtYsFroIY+&<V*T#9EG=Ba]PD.>mm#<4pg*MT78f1g+ql8[D?I.N:`q,\2Y,(OFmKTJS&TjE7@ZD\.6P%UNLqg48?Y>n]#'^;@TqcL*V8-_FKG*VnoOi9sW)4][!nsmYA,'Op<_GmYrFmUp1LJ@-E9+:*i/_PA!jJNK!A<[tHMPC0>BXN\.OV:_q'<dD%c1j#>Mc,5Gi-JL0*la1r/IJgpQC,#r.0k*=XJ<>Y*SGNpIM1b@>,+8.IR\'2hNlD7h%:8dOS[J]qBV8roS^0*PL"\fm$b88UaG0>Ps8IZY%E\T'AS^T+h7*t$*L9%@[f=(1//Z-;,gOn<S?RdS];=(SVWZf*&=>ah,Gdm.]t9ng?qI,,rUCJ2cU/(<_%5:R`M^Zfef`YOL)[qeFV=h4O<iTF'dP"=0/Jbb\JjP&$0Qd\=+0B5?hj.S7QPQ6i8Oo.NI4.C(K&I8\Bc'=%`8(f&97Vf5G*pUFK1aadq(5nQHsf(D"isI6FM*Ap'bLWmRmAp%#h#]s$Sm'ueCKcCPdf_N)XtJVHn(="cInDV,WWRbQDk3BT%E@GUTd+I^lkpXB\e2c3f^?==b6(c.l<F#h%79:f1baS2GM#AZd_OG#0k77<5'G/e2aPH8Y626S?IKMc<e1VtR*01(UApHsLWmWEjspJip]/GVFk-0.`Q)YFf*o+Iib]DWc3fA]GRFHn+NYVjgkOFNedXZ^ZLk.Gm/Vka/NIs`VM^X\m8n6@pL^D6Wc_%8\DZ!!:nIu>s#iV''L\kGam-tf^0LuO:W\0/:Ra3!T-cPN\\BH9/T]^"\0"</42h%K(Ng$1/#Cn6kBNb4IJ(>r4'^edn?6$N-2*HpUA4+Xjb*t4E-<DB"CGJ\cGH6_8sm3c-2G]-4DmE9^@4AN`l17_4Ak\n]emN:i<S_^r?-k4Om[Mudt1l76B#sm,l0DTe-,p_h->6Jd5]Ztb2RT*(AlIX^%f$fEO3#+J(!>]N<J-X&6qN.5=l72"4PZ$CK]7%aS:8r$bWnlO-a^skVGO<*5D=L%73Tr!+G\"iRSI58"I8Zlf@CGpNGIiem+qhWY^=]cQ%Z>R#/']GV&!>M9hJb#@$`($V%hXJU56V3/W[.`c^A/IWKMCqmRgf,^9L:m*PPFubIJOm(VpErL]"^<j/R\!JcPW+sSFUsVN`t?OeM*&F.Sc!p#04?\Vt3f(Cia=2L=MefrLua";+kd,b:_"$cC;NBTP\=Q=2.m;?%au6O"J*[/A:-%+-'uB!&NrdRQ\nV\9&-F0Ur!hHg#Qlf4WmOT=Q].8ael.:1in?Vb!h<*\<Qh)"=7-neJ@Y!M=V(JHoHX&!l$?>6~>endstream
+endobj
+10 0 obj
+<<
+/BaseFont /Symbol
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
 endobj
 xref
-0 10
+0 11
 0000000000 65535 f 
-0000000061 00000 n 
-0000000112 00000 n 
-0000000219 00000 n 
-0000000331 00000 n 
-0000000408 00000 n 
-0000000611 00000 n 
-0000000679 00000 n 
-0000000959 00000 n 
-0000001018 00000 n 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000113 00000 n 
+0000000162 00000 n 
+0000000428 00000 n 
+0000009854 00000 n 
+0000009961 00000 n 
+0000010068 00000 n 
+0000010180 00000 n 
+0000010292 00000 n 
 trailer
 <<
-/ID 
-[<83104b199a3874e3957c188ddf4caea7><83104b199a3874e3957c188ddf4caea7>]
-% ReportLab generated PDF document -- digest (opensource)
-
-/Info 7 0 R
-/Root 6 0 R
-/Size 10
+/Size 11
+/Root 3 0 R
+/Info 1 0 R
 >>
 startxref
-3528
+10370
 %%EOF
