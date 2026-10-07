@@ -31,7 +31,7 @@ class SiteFooter extends HTMLElement {
       </div>
       <div class="foot-bottom">
         <ul>
-            <li>Last Updated: September 30, 2026</li>
+            <li>Last Updated: October 7, 2026</li>
             <li>&copy; 2026 D Bhanu Prakash, Sri Sathya Sai Institute of Higher Learning. This course material is licensed under CC BY 4.0. https://creativecommons.org/licenses/by/4.0/</li>
           </ul>
       </div>
