@@ -1,4 +1,4 @@
-# Course Website — Odd Semester - 2026-27
+# Course Website — DMACS, SSSIHL - 2026-27
 ### Dr. D Bhanu Prakash
 #### Department of Mathematics and Computer Science
 
