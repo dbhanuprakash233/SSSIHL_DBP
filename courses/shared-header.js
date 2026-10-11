@@ -22,7 +22,7 @@ class SiteHeader extends HTMLElement {
       <nav class="main-nav a">
         <div style="display: flex; gap: 15px;">
         <a href="../index.html">Home</a>
-        <a href="timetable.html">Timetable</a>
+        <a href="timetable_even_2627.html">Timetable</a>
         </div>
       </nav>
     </div>
