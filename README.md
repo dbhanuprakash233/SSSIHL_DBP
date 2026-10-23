@@ -2,7 +2,7 @@
 ### Dr. D Bhanu Prakash
 #### Department of Mathematics and Computer Science
 
-A static website for this semester's courses: syllabi, unit-wise hours, the
+A static website of my courses for this year: syllabi, unit-wise hours, the
 weekly timetable, prerequisite resources, and downloadable documents
 (syllabus, lecture materials, timetable). No build tools or server required — it's
 plain HTML/CSS/JS, ready for GitHub Pages.
